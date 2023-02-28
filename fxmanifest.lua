@@ -21,3 +21,6 @@ exports {
 	'GetFuel',
 	'SetFuel'
 }
+
+
+shared_script '@ox_lib/init.lua'
